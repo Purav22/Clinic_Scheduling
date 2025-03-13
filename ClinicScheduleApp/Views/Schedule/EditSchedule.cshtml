@@ -1,0 +1,16 @@
+﻿@model Schedule
+
+@{
+    ViewData["Title"] = "Edit Schedule";
+}
+
+<form asp-controller="Schedule" asp-action="ProcessEditRequest" method="post" enctype="application/x-www-form-urlencoded">
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <partial name="_ScheduleFormPartial" />
+
+    <input type="hidden" asp-for="ScheduleId" />
+
+    <button type="submit" class="btn btn-primary">Edit</button>
+    <a asp-controller="Schedule" asp-action="GetAllSchedules" class="btn btn-primary">Cancel</a>
+</form>

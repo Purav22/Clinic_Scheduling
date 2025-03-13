@@ -1,0 +1,10 @@
+﻿@model AppointmentsViewModel
+
+<h3>Recent Past Appointments</h3>
+<h6>Showing at least @Model.NumberOfAppointmentsToDisplay appointments</h6>
+<ul>
+    @for (int i = 0; i < Math.Min(Model.NumberOfAppointmentsToDisplay, Model.Appointments.Count); i++)
+    {
+        <li>@Model.Appointments[i].PatientName (on @Model.Appointments[i].Schedule.Name schedule)</li>
+    }
+</ul>

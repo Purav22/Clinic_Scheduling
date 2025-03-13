@@ -1,0 +1,36 @@
+﻿@model List<Schedule>
+
+@{
+    ViewData["Title"] = "All schedules";
+}
+
+<a asp-controller="Schedule" asp-action="GetAddScheduleRequest">Add new schedule</a>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date created</th>
+            <th>Number of clinicians on schedule</th>
+            <th>Number of appointments on schedule</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var schedule in Model)
+        {
+            <tr>
+                <td>@schedule.Name</td>
+                <td>@schedule.DateCreated</td>
+                <td>@schedule.Clinicians?.Count</td>
+                <td>@schedule.Appointments?.Count</td>
+                <td>
+                    <a asp-controller="Schedule" asp-action="GetScheduleById" asp-route-id="@schedule.ScheduleId">Manage</a>
+                    <span class="mx-1">|</span>
+                    <a asp-controller="Schedule" asp-action="GetEditRequestById" asp-route-id="@schedule.ScheduleId">Edit</a>
+                    <span class="mx-1">|</span>
+                    <a asp-controller="Schedule" asp-action="GetDeleteRequestById" asp-route-id="@schedule.ScheduleId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

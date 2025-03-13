@@ -1,0 +1,33 @@
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.deps.json
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\refint\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ref\ClinicSchedule.dll
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.deps.json
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.dll
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.pdb
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfoInputs.cache
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfo.cs
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.csproj.CoreCompileInputs.cache
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.dll
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\refint\ClinicSchedule.dll
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.pdb
+C:\Users\nidhi\Downloads\web-final\ClinicSchedule\obj\Debug\net7.0\ref\ClinicSchedule.dll
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.deps.json
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.dll
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.pdb
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfoInputs.cache
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfo.cs
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.csproj.CoreCompileInputs.cache
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.dll
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\refint\ClinicSchedule.dll
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.pdb
+C:\Users\ppp22\OneDrive - Conestoga College\Conestoga\MWT\web-final\web-final\ClinicSchedule\obj\Debug\net7.0\ref\ClinicSchedule.dll
